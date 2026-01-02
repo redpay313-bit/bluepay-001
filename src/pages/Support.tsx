@@ -37,7 +37,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('mailto: chiboy82300@gmail.com')}
+              onClick={() => window.open('mailto: redpaye33@gmail.com')}
             >
               Send Email
             </Button>
@@ -55,7 +55,7 @@ const Support = () => {
             </div>
             <Button 
               className="w-full mt-4 bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 py-3 text-sm font-semibold rounded-xl shadow-md transition-all duration-200"
-              onClick={() => window.open('https://wa.me/2349021447956')}
+              onClick={() => window.open('https://wa.me/2348054157696')}
             >
               Chat on WhatsApp
             </Button>
@@ -82,7 +82,7 @@ const Support = () => {
 
         <div className="mt-6 text-center">
           <p className="text-gray-500 text-sm">Available 24/7 for your support needs</p>
-          <p className="text-blue-600 font-medium mt-1 text-sm">chiboy82300@gmail.com</p>
+          <p className="text-blue-600 font-medium mt-1 text-sm">redpaye33@gmail.com</p>
         </div>
       </div>
     </div>
