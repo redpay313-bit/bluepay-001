@@ -30,7 +30,7 @@ const Index = () => {
           <div className="mt-16">
             <img 
               src="/lovable-uploads/55c3f237-e0a0-487d-8665-b3f3c186b081.png" 
-              alt="BLUEPAY2025" 
+              alt="BLUEPAY2026" 
               className="mx-auto mb-10 max-w-xs"
             />
             <h1 className="text-4xl font-bold mb-4">Get Your Account Ready And Instantly.</h1>
