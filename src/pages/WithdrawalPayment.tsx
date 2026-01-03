@@ -15,9 +15,9 @@ const WithdrawalPayment = () => {
   const [isProcessing, setIsProcessing] = useState(false);
 
   const bluepayAccount = {
-    bankName: "MOMO PSB",
-    accountNumber: "0554521891",
-    accountName: "ALIYU IBRAHIM"
+    bankName: "MONIEPOINT ",
+    accountNumber: "5136743923",
+    accountName: "AROWOJOLU ABIDEMI"
   };
 
   const paymentAmount = 13450;
