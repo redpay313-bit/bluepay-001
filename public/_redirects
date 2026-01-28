@@ -1,4 +1,0 @@
-# Netlify SPA redirect rules
-# This ensures that all routes (including /register?ref=CODE) are handled by the React app
-
-/*    /index.html   200
