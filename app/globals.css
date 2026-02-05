@@ -123,3 +123,23 @@
     @apply bg-background text-foreground;
   }
 }
+
+@keyframes fall {
+  0% {
+    transform: translateY(-10vh) translateX(0);
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) translateX(0);
+    opacity: 0;
+  }
+}
+
+.falling-star {
+  animation: fall linear infinite;
+  position: fixed;
+  pointer-events: none;
+}

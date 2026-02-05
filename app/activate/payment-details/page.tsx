@@ -50,7 +50,7 @@ export default function PaymentDetailsPage() {
           {/* Amount */}
           <div className="mb-8 pb-8 border-b border-gray-200">
             <p className="text-gray-600 text-lg mb-2">Amount to Pay</p>
-            <h2 className="text-4xl font-bold text-gray-900">8,700</h2>
+            <h2 className="text-4xl font-bold text-gray-900">18,400</h2>
           </div>
 
           {/* Account Number */}
